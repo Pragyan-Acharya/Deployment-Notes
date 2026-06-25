@@ -12,7 +12,7 @@
 - Setting Up SSL Certificates
 ### 1. Preparing the VPS Environment
 
-#### Get you VPS Hosting here : [Hostinger VPS](https://greatstack.dev/go/hostinger-vps)
+
 
 Log in to Your VPS in Terminal 
 
@@ -271,4 +271,4 @@ certbot renew --dry-run
 
 If you still need help in deployment:
 
-Contact us on email : greatstackdev@gmail.com
+Contact Me email : pragyanacharya607@gmail.com
